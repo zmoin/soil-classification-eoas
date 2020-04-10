@@ -6,27 +6,27 @@ Python script to utilize given CPT data for preliminary liquifiction analysis an
 
 * Powershell(Windows), Ubuntu Terminal(Windows Subsystem Linux version) or Terminal(macOS)
 * An IDE: 
-** [Eclipse](https://www.eclipse.org/downloads/)
-** [VSCode](https://code.visualstudio.com/download)
-** [Notepad++](https://notepad-plus-plus.org/downloads/)
+- [Eclipse](https://www.eclipse.org/downloads/)
+- [VSCode](https://code.visualstudio.com/download)
+- [Notepad++](https://notepad-plus-plus.org/downloads/)
 * Package Managers:
-** [Homebrew](https://brew.sh/)
-** [pip](https://pip.pypa.io/en/stable/) - [Install Python3 using pip](https://docs.python.org/3/installing/index.html)
-** [python3+](https://www.python.org/downloads/) - CHECK your current python version by ```python --version```
+- [Homebrew](https://brew.sh/)
+- [pip](https://pip.pypa.io/en/stable/) - [Install Python3 using pip](https://docs.python.org/3/installing/index.html)
+- [python3+](https://www.python.org/downloads/) - CHECK your current python version by ```python --version```
 
 
 
 ### Tips and Tools
 
 * General Syntax
-** You don’t have to know much other than some basic stuff
-** It’s always a good idea to look into documentation if you use something from a library
-** Try thinking everything in your PLAIN language first, then translate it to what you need to do.
+- You don’t have to know much other than some basic stuff
+- It’s always a good idea to look into documentation if you use something from a library
+- Try thinking everything in your PLAIN language first, then translate it to what you need to do.
 * Functions
-** Always a good idea to break down your code into sections called “functions”. Very similar to how Math functions work. 
-** Don’t put too many things in your main function. 
+- Always a good idea to break down your code into sections called “functions”. Very similar to how Math functions work. 
+- Don’t put too many things in your main function. 
 * Bugs and Workarounds 
-** Opensource problems. At any rate, in a workplace, you will be expected to find a solution or a workaround to any bugs that you face that doesn’t have an “official” bug fix.
+- Opensource problems. At any rate, in a workplace, you will be expected to find a solution or a workaround to any bugs that you face that doesn’t have an “official” bug fix.
 
 
 ## Resources
