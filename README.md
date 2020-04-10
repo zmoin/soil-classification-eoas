@@ -6,13 +6,13 @@ Python script to utilize given CPT data for preliminary liquifiction analysis an
 
 * Powershell(Windows), Ubuntu Terminal(Windows Subsystem Linux version) or Terminal(macOS)
 * An IDE: 
-- [Eclipse](https://www.eclipse.org/downloads/)
-- [VSCode](https://code.visualstudio.com/download)
-- [Notepad++](https://notepad-plus-plus.org/downloads/)
+    - [Eclipse](https://www.eclipse.org/downloads/)
+    - [VSCode](https://code.visualstudio.com/download)
+    - [Notepad++](https://notepad-plus-plus.org/downloads/)
 * Package Managers:
-- [Homebrew](https://brew.sh/)
-- [pip](https://pip.pypa.io/en/stable/) - [Install Python3 using pip](https://docs.python.org/3/installing/index.html)
-- [python3+](https://www.python.org/downloads/) - CHECK your current python version by ```python --version```
+    - [Homebrew](https://brew.sh/)
+    - [pip](https://pip.pypa.io/en/stable/) - [Install Python3 using pip](https://docs.python.org/3/installing/index.html)
+    - [python3+](https://www.python.org/downloads/) - CHECK your current python version by ```python --version```
 
 
 
