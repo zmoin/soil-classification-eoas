@@ -6,10 +6,11 @@ import pandas as pd
 import numpy
 from openpyxl import load_workbook
 
-# This is a Global Variable - not a good practice un
+# These are global Variables - not a good practice but needed for now
+# It will be changed at a later date when the concept of classes are introduced
 a_MAX_by_g = 0.06
 WT_Depth = 1.90
-BAR_in_MPa = 0.1  # in MPa
+BAR_in_MPa = 0.1
 BAR_in_KPa = 100
 P_in_Area_KPa = 9.81
 
@@ -51,6 +52,11 @@ def run():
     # and also just enter the answer itself in the SAME file?
 
     # append to the EXISTING excel file
+    '''
+    So this part could have been a part of unit testing. 
+    I know the current issues include unused parameters - that can
+    potentially be solved by function overloading concept.
+    '''
     appendToExcel(appended_file, "depth-diff_m", "0")
     print("depth-diff_m calculated")
 
